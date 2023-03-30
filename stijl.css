@@ -1,0 +1,35 @@
+ul a {
+    color: white;
+    text-decoration: none;
+}
+
+li {
+    margin-left: 52px;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    border-left: 2px solid orange;
+    border-right: 1px solid orange;
+    background-color: orangered;
+}
+
+li:hover {
+    background-color: yellowgreen;
+    border-style: none;
+}
+
+h1 {
+    margin-left: 400px;
+}
+
+.btn {
+    border-radius: 2;
+}
+
+footer {
+    height: 200px;
+    text-align: center;
+}
